@@ -1,0 +1,19 @@
+{
+  "name": "electrontrial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moonkop/electronTrail.git"
+  },
+  "author": "moonkop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moonkop/electronTrail/issues"
+  },
+  "homepage": "https://github.com/moonkop/electronTrail#readme"
+}
